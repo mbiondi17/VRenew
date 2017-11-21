@@ -1,0 +1,40 @@
+86 Scandinavian Plants Bundle v1.1
+
+----------------------
+
+Version History:
+
+	Version 1.1	July 2015
+	Version 1.0	Initial Release
+
+----------------------
+
+Version 1.1 Updates:
+
+	- models re-scaled to Blender-based scaling
+	- object scaling and orientation checked/corrected
+	- textures brought to standard 1024x1024 pixel size
+	- UV's re-mapped for adjusted texture size
+	- normals recalculated
+
+----------------------
+
+Contents:
+
+	17 plants types and 2 color types
+
+	4 bishops weed, 6 bog yellow cress, 4 breckland thyme, 4 bulrush, 6 common reed, 6 cross-leaved heath, 6 crowberry, 6 european beech grass, 6 gagea minima, 4 grass, 4 grey hair grass, 4 heather, 4 henbane, 6 hoary plantain, 4 northern marsh orchid, 6 red clover, and 6 true lovers knot
+
+	34 PNG textures: 17 healthy textures and 17 unhealthy textures
+
+	Model composition varies greatly but rough per model averages are: verts- 110, faces- 34, tris- 68, edges- 120.
+
+----------------------
+
+//NOTE// Models scaled for Unity 5 (Blender-based scaling).
+
+---------------------
+
+Contact Information:
+
+	support@colbrostudios.com
